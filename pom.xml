@@ -4,10 +4,4 @@
     <groupId>link.sharpe</groupId>
     <artifactId>mavenproject1</artifactId>
     <version>1.0-SNAPSHOT</version>
-<dependencies>
-    <depends>
-      <artifactId>a</artifactId>
-      <artifactId>b</artifactId>
-      <artifactId>c</artifactId>
-</dependencies>
 </project>
