@@ -1,2 +1,0 @@
-# theTimeIs
-Frequently updating repo
